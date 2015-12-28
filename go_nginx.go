@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/ravitezu/nginxplay"
+	"github.com/ravitezu/parseconf"
 	"os"
 )
 
